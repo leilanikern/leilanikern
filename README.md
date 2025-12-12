@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Welcome to my home on Github. I'm currently a Sophomore at South Eugene High School / Eugene International High School.
+
+I'm interested in:
+- Computer Programming
+- Mathematics
+- Chemistry
+
+Please check out my evolving portfolio of projects through my public repos
+  
 <!--
 **leilanikern/leilanikern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
